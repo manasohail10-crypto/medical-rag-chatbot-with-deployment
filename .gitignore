@@ -1,0 +1,6 @@
+.env
+flask_session/
+vectorstore/
+venv/
+MEDICAL_AI_CHATBOT.egg-info/
+__pycache__
