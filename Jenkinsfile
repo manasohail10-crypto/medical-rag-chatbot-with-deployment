@@ -6,7 +6,7 @@ pipeline {
         ECR_REPO    = 'medical-rag'
         IMAGE_TAG   = 'latest'
         ECS_CLUSTER = 'medical-rag-cluster'
-        ECS_SERVICE = 'medical-rag-service'
+        ECS_SERVICE = 'medical-rag-task-service-yxursvxx'
     }
 
     stages {
